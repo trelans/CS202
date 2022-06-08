@@ -1,0 +1,2 @@
+hw4: Graph.cpp LinkedList.cpp main.cpp Graph.h LinkedList.h 
+	g++ -o hw4 Graph.cpp LinkedList.cpp main.cpp

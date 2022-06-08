@@ -1,0 +1,2 @@
+simulator: main.cpp computer.cpp ArrayMaxHeap.cpp PriorityQueue.cpp logln.cpp ArrayMaxHeap.h PriorityQueue.h computer.h logln.h
+	g++ -o simulator ArrayMaxHeap.cpp PriorityQueue.cpp computer.cpp logln.cpp main.cpp 
